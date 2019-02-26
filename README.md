@@ -9,7 +9,7 @@
 This project shows usage of singleton pattern.  
 The main principle is to ensure a class only has one instance and provide a global point of access to it.  
 
-In singleton pattern we make use of a private constructor, a static method combined with a static variable.
+In singleton pattern we make use of a private constructor and a static method combined with a static variable.
 
 ## Technologies
 Project is created with:
